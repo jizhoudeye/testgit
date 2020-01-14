@@ -2,10 +2,7 @@
 【中文】【XCI】【升级】魔界战记Refine.Disgaea1.冒险
 【中文】【XCI】【升级】拉德罗杰斯：激进版.Rad Rodgers Radical Edition.动作
 【中文】【XCI】【升级】【MC78】塞尔达无双：海拉尔全明星.无双
-【中文】【XCI】【升级】【MC73】诸神战争：日本神话大战.God Wars.RPG
 【中文】【XCI】【升级】【DLC】战场女武神4.Valkyria Chronicles.RPG
-【中文】【XCI】【NSP】罪恶装备20周年版.GUILTY GEAR.格斗
-【中文】【XCI】【NSP】最终幻想10-X2.FinalFantasyX-X2.RPG
 【中文】【XCI】【NSP】真三国无双7：猛将传.Dynasty Warrior.无双
 【中文】【XCI】【NSP】生化危机4.Resident Evil4.冒险
 【中文】【XCI】【NSP】生化危机1.Resident Evil1.冒险
@@ -18,7 +15,6 @@
 【中文】【XCI】【NSP】【升级】最终幻想12黄道年代.FinalFantasy XII.RPG
 【中文】【XCI】【NSP】【升级】异度之刃2：黄金之国伊拉.The Golden Country.RPG
 【中文】【XCI】【NSP】【升级】文明6.Civilization VI.策略
-【中文】【XCI】【NSP】【升级】狙击精英V2.Sniper Elite V2.射击
 【中文】【XCI】【NSP】【升级】假面骑士.Kamen Rider Climax Scramble.动作
 【中文】【XCI】【NSP】【升级】方舟：生存进化.Ark Survival Evolved.ARPG
 【中文】【XCI】【NSP】【升级】地狱之刃：塞纳的献祭.Hellblade Senuas Sacrifice.动作
@@ -28,11 +24,7 @@
 【中文】【XCI】【NSP】【升级】【MC90】空洞骑士.Hollow Knight.冒险
 【中文】【XCI】【NSP】【升级】【MC82】盐与避难所.Salt And Sanctuary.RPG
 【中文】【XCI】【NSP】【升级】【MC81】最终幻想世界MAXIMA.WORLD OF FINAL FANTASY.RPG
-【中文】【XCI】【NSP】【升级】【MC81】魔界战记5：复仇联盟.Disgaea5 Alliance of Vengeance.策略
 【中文】【XCI】【NSP】【升级】【MC80】怪物猎人XXGU版.Monster Hunter.RPG
-【中文】【XCI】【NSP】【升级】【MC79】战神：黑夜战争.Battle Chasers Nightwar.RPG
-【中文】【XCI】【NSP】【升级】【MC79】毁灭战士.DOOM.射击
-【中文】【XCI】【NSP】【升级】【MC78】德军总部2：新巨像.Wolfenstein.射击
 【中文】【XCI】【NSP】【升级】【MC76】马里奥网球.Mario Tennis Aces.体育
 【中文】【XCI】【NSP】【升级】【MC76】超级马里奥聚会.Super Mario Party.聚会
 【中文】【XCI】【NSP】【升级】【MC74】蜡烛：火焰的力量.Candle.解谜
@@ -58,6 +50,5 @@
 【汉中】【XCI】【NSP】【升级】【MC81】血污：月之诅咒.Bloodstained.动作
 【汉中】【XCI】【NSP】【升级】【MC80】怪物猎人XX.Monster Hunter.RPG
 【汉中】【XCI】【NSP】【升级】【DLC】牧场物语：希望之光.Harvest Moon.经营
-【汉中】【XCI】【NSP】【MC75】最终幻想9.FINA FANTASY IX.RPG
 [中文][XCI][升级][血污 夜之仪式][Bloodstained Ritual of the Night][5.99]
 [中文][XCI][马里奥制造2][Super Mario Maker 2][动作][2.88]
